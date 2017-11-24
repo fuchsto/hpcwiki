@@ -1,0 +1,35 @@
+---
+title: Lab Session 00: Introduction to C programming
+format: Markdown
+categories: lab
+...
+
+# Why C?
+
+To keep the material on an abstract level that will stay relevant for decades,
+we focus on computational principles in hardware and programming models, not
+programming.
+
+For the HPC domain in system programming, the only viable choices are C, C++
+and Fortran. The use cases in the lab assignments do not require expertise in
+high-level programming abstractions. To implement HPC applications in the real
+world, we recommend C++.
+
+
+# Memory
+
+## Allocation Spaces
+
+**Stack**
+
+**Heap**
+
+
+## Storage Order 
+
+
+
+# References
+
+- [learn-c.org](http://www.learn-c.org) online training, compile and run C code in browser
+
