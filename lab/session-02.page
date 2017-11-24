@@ -1,0 +1,30 @@
+---
+title: Pipelining, Instruction-level-parallelism
+format: Markdown
+categories: lab
+...
+
+# Terminology
+
+Consider this simple C snippet:
+
+~~~c
+int a = 12;
+int b = 23;
+// ...
+a += b;
+~~~
+
+The expression `a += b` is an **operation** applied to `a` with\
+argument `b` as its only argument.
+
+Note that the term *parameter* refers to a variable in a function's
+signature while an **argument** is a concrete value.
+For Example, `double d` is a parameter of function `confabulate`
+which is then called with `2.124`.
+
+~~~c
+int confabulate(double d, int i);
+// ...
+confabulate(2.124, 41.99);
+~~~
