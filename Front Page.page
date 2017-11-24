@@ -1,13 +1,21 @@
 ---
 format: Markdown
-title: PADAL Fellows Collaboration Wiki
+title: Parallel and High Performance Computing Course Material
 ...
 
-# Current Topics
+# Coursework Sessions
 
-## [Interoperability of Kokkos and DASH: Spaces and NArray Abstraction](/KokkosDASH)
+## Session 0: Introduction to C programming
 
-## [Leveraging hwloc with Locality Domain Hierarchies](/LDHwloc)
+## Session 1: Top 500, Moore's Law
 
-## [Applying Locality Hierarchy Abstractions to Hetero Streams](/LDHStreams)
+## Session 2: Pipelining, Instruction-level-parallelism
+
+## Session 3: Matrix storage, cache effects
+
+## Session 4: Matrix multiplication, Tiling technique
+
+## Session 5: MPI basics, Domain decomposition
+
+
 
