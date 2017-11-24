@@ -11,9 +11,13 @@ we focus on computational principles in hardware and programming models, not
 programming.
 
 For the HPC domain in system programming, the only viable choices are C, C++
-and Fortran. The use cases in the lab assignments do not require expertise in
-high-level programming abstractions. To implement HPC applications in the real
-world, we recommend C++.
+and Fortran. To implement HPC applications in the real world, we recommend C++.
+The use cases in the lab assignments do not require expertise in high-level
+programming abstractions and assume a basic understanding of C.
+
+If you are proficient in C++, we encourage you to use it in lab assignments to
+achieve more elegant solutions.
+
 
 
 # Memory
@@ -21,6 +25,12 @@ world, we recommend C++.
 ## Allocation Spaces
 
 **Stack**
+
+~~~c
+int range_mininum(double * p_beg, double * p_end) {
+
+}
+~~~
 
 **Heap**
 
