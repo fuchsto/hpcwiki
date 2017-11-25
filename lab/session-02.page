@@ -29,4 +29,36 @@ confabulate(2.124, 41.99);
 ~~~
 
 The variable `double d` is a parameter of function `confabulate`
-which is then called with arguments `2.124` and `41.99.
+which is then called with arguments `2.124` and `41.99`.
+
+Now some low-level basics we rarely think about in our carefree everyday
+lives:
+
+- Any *operation* like `a += b` is realized in a hardware process called
+  *instruction cycle*.
+- A single CPU contains several functional components, each implementing
+  a specific processing task (for example: ALU for bitwise boolean logic,
+  FPU for floating-point calculations, MMU to translate logical addresses
+  to phyiscal banks in memory, ...)
+- CPUs mostly interact with data that has been loaded into its *registers*
+
+
+> Load/Store RISC architectures: all operands loaded into registers
+> CISC, Memory Architectures: operands may also
+
+Let's first decompose `a += b` in our examples into its procedural steps:
+
+1. load value of `b` into a register $R0
+2. load value of `a` into a register $R1
+3. calculate `add $R0 $R1`
+4. put the result on the data bus to store it at the memory address of
+   variable `a`
+
+So in pseudo load-store-assembly:
+
+~~~
+load $R1 `b`
+load $R0 `a`
+add  $R0 R1
+~~~
+
