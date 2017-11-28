@@ -25,11 +25,11 @@ For Example:
 ~~~c
 int confabulate(double d, int i);
 // ...
-confabulate(2.124, 41.99);
+confabulate(2.124, 41);
 ~~~
 
-The variable `double d` is a parameter of function `confabulate`
-which is then called with arguments `2.124` and `41.99`.
+The variables `double d` and `int i` are parameters of function `confabulate`
+which is then called with arguments `2.124` and `41`.
 
 Now some low-level basics we rarely think about in our carefree everyday
 lives:
