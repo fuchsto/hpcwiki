@@ -12,6 +12,16 @@ title: Parallel and High Performance Computing Course Material
 - [Session 4: Matrix multiplication, Tiling technique](/lab/session-04)
 - [Session 5: MPI basics, Domain decomposition](/lab/session-05)
 
+# Rants & References
+
+**Note**\
+These references are not immediately relevant to the PHPC lecture. \
+However, they are immediately relevant to "knowing wtf you actually do", aka your life.
+
+- [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
+- [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+- [What Every Programmer Should Know About Floating-Point Arithmetic](http://www.phys.uconn.edu/~rozman/Courses/P2200_15F/downloads/floating-point-guide-2015-10-15.pdf)
+
 
 # Files
 
