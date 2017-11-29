@@ -1,0 +1,16 @@
+---
+title: Lab Session 03: Matrix storage, cache effects
+format: Markdown
+categories: lab
+...
+
+
+# Memory and Storage
+
+![A real-life storage](/lab/session-03/warehouse.jpg)
+
+So you might have noticed we sometimes refer to memory as "storage" (see the picture in this paragraph remember what a storage is in real life).
+
+In my youngling days I worked in a warehouse as "logistics assistant". So I was schlepping paletts of beverages and potatos using a transportation device (Niederflurhubwagen, aka "Ameise") capable of moving exactly one pallet.
+You wouldn't carry single bottles around. You always move a full pallet, of course. And there is only one kind of product per pallet.
+
