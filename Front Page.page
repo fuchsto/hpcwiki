@@ -11,6 +11,8 @@ title: Parallel and High Performance Computing Course Material
 - [Session 3: Matrix storage, cache effects](/lab/session-03)
 - [Session 4: Matrix multiplication, Tiling technique](/lab/session-04)
 - [Session 5: MPI basics, Domain decomposition](/lab/session-05)
+- [Session 6: MPI continued, PGAS, Topologies, Stencil basics)
+
 
 # Rants & References
 
