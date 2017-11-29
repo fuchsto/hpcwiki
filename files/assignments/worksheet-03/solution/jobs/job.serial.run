@@ -1,0 +1,21 @@
+#@ job_name = pc-15ws-mmult-tiled-aligned-1000
+#@ job_type = parallel
+#@ node = 1
+#@ total_tasks = 1
+#@ class = test
+#@ initialdir = $(home)/teaching/pc-15ws/session03-dgemm/evaluation
+#@ output = $(home)/teaching/pc-15ws/session03-dgemm/evaluation/result.out
+#@ error = $(home)/teaching/pc-15ws/session03-dgemm/evaluation/result.err
+#@ wall_clock_limit = 10 min
+#@ energy_policy_tag = NONE
+#@ queue
+. /etc/profile
+. /etc/profile.d/modules.sh
+# Setup of environment:
+module load papi
+# Job task execution:
+# ./build/bench.org.2560.a
+./build/bench.ref.2560.aligned.a
+# ./build/bench.tiled.2560.aligned.a
+# ./build/bench.tiled.avx.2560.aligned.a
+# ./build/bench.tiled.b64.avx.2560.aligned.a

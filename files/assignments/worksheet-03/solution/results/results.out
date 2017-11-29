@@ -1,0 +1,25 @@
+
+Without xCORE-AVX2:
+===================
+                variant,      n,   time_ms,       gflops
+                    org,   2560, 59848.420,     0.560657 
+                  tiled,   2560,  5637.566,     5.951936 
+          tiled.aligned,   2560,  5711.213,     5.875185 
+            ref.aligned,   2560,  4142.941,     8.099181 
+  tiled.avx.nta.aligned,   2560,  7379.822,     4.546781 
+      tiled.avx.aligned,   2560,  3426.689,     9.792086 
+  tiled.b64.avx.aligned,   2560,  2411.453,    13.914609 
+            mkl.aligned,   2560,  1131.899,    29.644375 
+
+With xCORE-AVX2:
+===================
+                variant,      n,   time_ms,       gflops
+                    org,   2560, 43567.105,     0.770178 
+                  tiled,   2560,  3430.987,     9.779818 
+          tiled.aligned,   2560,  3318.122,    10.112476 
+            ref.aligned,   2560,  2927.321,    11.462504 
+  tiled.avx.nta.aligned,   2560,  7264.198,     4.619152 
+      tiled.avx.aligned,   2560,  2672.370,    12.556058 
+  tiled.b64.avx.aligned,   2560,  2034.963,    16.488962 
+            mkl.aligned,   2560,  1761.715,    19.046459 
+
