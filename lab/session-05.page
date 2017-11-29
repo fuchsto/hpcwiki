@@ -1,0 +1,27 @@
+---
+title: Lab Session 05: MPI basics, Domain decomposition
+format: Markdown
+categories: lab
+...
+
+
+# Message Passing
+
+A comprehensive literature review on parallel computing would confront you with a
+mind-numbingly vast, unstructured terminology. Boiled down to their essence, only a few
+fundamental models remain that actually differ in expressiveness.
+These are periodically rediscovered, reimplemented and - just to confuse the russians -
+renamed.
+Message passing is also known as *Actor Model*, *Communicating Sequential Processes* or
+*Process Channels*. These terms each have their specific connotation but they just
+emphasize different aspects of the same basic idea.
+
+As of this writing, the cool kids on the block use Go and praise its elegant, robust
+and efficient concurrency features, namely *goroutines*. Way better than the restrictive
+event model! A few years earlier, Scala had its 15 minutes of fame. Both seem short-lived
+compared to Erlang which is established in the TelCo industry for decades.
+Seasoned academics admire Smalltalk, the legendary Yggdrasil of programming languages.
+
+Message passing. All of them.
+
+
