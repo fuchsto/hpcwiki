@@ -15,8 +15,8 @@ int b = 23;
 a += b;
 ~~~
 
-The expression `a += b` is an **operation** applied to `a` with\
-argument `b` as its only argument.
+The expression `a += b` is an **operation** applied to `a` with
+argument `b`.
 
 Note that the term **parameter** refers to a variable in a function's
 signature while an **argument** is a concrete value.
@@ -40,8 +40,9 @@ lives:
   a specific processing task (for example: ALU for bitwise boolean logic,
   FPU for floating-point calculations, MMU to translate logical addresses
   to phyiscal banks in memory, ...)
-- To keep things simple and civilized, we assume Load-Store CPUs which
-  can only access data in its *registers* and have no access to memory
+- To keep things simple and civilized we assume Load-Store CPUs which
+  can only access data in its *registers* and have no immediate access to
+  main memory
 
 Let's first decompose `a += b` in our examples into its procedural steps.
 
@@ -49,15 +50,15 @@ Let's first decompose `a += b` in our examples into its procedural steps.
 1. **load** value of `b` into a register $R0
 2. **load** value of `a` into a register $R1
 3. **calculate** `add $R0 $R1`
-4. **store** result at the memory address of variable `a`
+4. **store** result at the address referenced by `a`
 
 So in pseudo load-store-assembly:
 
-~~~
-load  $R1 &(`b`) // R1 <- b
-load  $R0 &(`a`) // R0 <- a
-add   $R3 $R0 R1 // R3 = R0 + R1
-store $R3 &(`a`) // R3 -> a
+~~~bash
+.load  $R1 &(b)    ## R1 <- b
+.load  $R0 &(a)    ## R0 <- a
+.add   $R3 $R0 $R1 ## R3 = R0 + R1
+.store $R3 &(a)    ## R3 -> a
 ~~~
 
 > Longing for a more detailed discussion of L/S assembly? I can relate! \
