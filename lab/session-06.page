@@ -7,3 +7,7 @@ categories: lab
 **Shameless plug:** \
 My talk on *[Cartesian set abstractions for PGAS, demonstrated for 2D stencil scenarios](https://www.youtube.com/watch?v=JsGsgRnbIpU)*. \
 The live demos showcase the [DASH C++ library](http://github.com/dash-project/dash), running on top of plain MPI.
+
+
+
+![alt text](/lab/session-06/top500_accelerators_performance_share.png)
