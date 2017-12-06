@@ -7,6 +7,5 @@ categories: lab
 
 ![Tree topology, diagonal mapping of tiles](/lab/session-06/stencil_decomp_topology_diag.svg)
 
-**Shameless plug:** \
-My talk on *[Cartesian set abstractions for PGAS, demonstrated for 2D stencil scenarios](https://www.youtube.com/watch?v=JsGsgRnbIpU)*. \
-The live demos showcase the [DASH C++ library](http://github.com/dash-project/dash), running on top of plain MPI.
+(**Shameless plug**)
+My talk on *[Cartesian set abstractions for PGAS, demonstrated for 2D stencil scenarios](https://www.youtube.com/watch?v=JsGsgRnbIpU)*. The live demos showcase the [DASH C++ library](http://github.com/dash-project/dash), running on top of plain MPI.
