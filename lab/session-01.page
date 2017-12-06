@@ -7,10 +7,9 @@ category: lab
 
 # Fun with the TOP500 / Green500 Lists
 
-Fooling aroung with the [interactive charts at topp500.org](https://www.top500.org/statistics/overtime/)
-(aka "data exploration") yields interesting insights.
-
-
 ![Share of TOP500 systems with accelerators over time](/lab/session-06/top500_accelerators_systems_share.png)
 
 ![Performance share of TOP500 systems with accelerators over time](/lab/session-06/top500_accelerators_performance_share.png)
+
+Fooling aroung with the [interactive charts at topp500.org](https://www.top500.org/statistics/overtime/)
+(aka "data exploration") yields interesting insights.
