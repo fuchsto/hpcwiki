@@ -7,7 +7,7 @@ title: Parallel and High Performance Computing Course Material
 
 - [Session 0: Introduction to C programming](/lab/session-00)
 - [Session 1: Top 500, Moore's Law](/lab/session-01)
-- [Session 2: Pipelining, Instruction-level-parallelism](/lab/session-02)
+- [Session 2: Pipelining, Instruction-Level Parallelism](/lab/session-02)
 - [Session 3: Matrix storage, cache effects](/lab/session-03)
 - [Session 4: Matrix multiplication, Tiling technique](/lab/session-04)
 - [Session 5: MPI basics, Domain decomposition](/lab/session-05)
