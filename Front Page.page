@@ -12,6 +12,8 @@ title: Parallel and High Performance Computing Course Material
 - [Session 4: Matrix multiplication, Tiling technique](/lab/session-04)
 - [Session 5: MPI basics, Domain decomposition](/lab/session-05)
 - [Session 6: MPI continued, PGAS, Topologies, Stencil basics](/lab/session-06)
+- [Session 7: Topology measures, Partitioned stencils](/lab/session-07)
+- [Session 8: OpenMP basics, OpenMP image processing example](/lab/session-08)
 
 
 # Rants & References
