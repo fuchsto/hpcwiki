@@ -5,16 +5,21 @@ title: Parallel and High Performance Computing Course Material
 
 # Coursework Sessions
 
-- [Session 0: Introduction to C programming](/lab/session-00)
-- [Session 1: Top 500, Moore's Law](/lab/session-01)
-- [Session 2: Pipelining, Instruction-Level Parallelism](/lab/session-02)
-- [Session 3: Matrix storage, cache effects](/lab/session-03)
-- [Session 4: Matrix multiplication, Tiling technique](/lab/session-04)
-- [Session 5: MPI basics, Domain decomposition](/lab/session-05)
-- [Session 6: MPI continued, PGAS, Topologies, Stencil basics](/lab/session-06)
-- [Session 7: Topology measures, Partitioned stencils](/lab/session-07)
-- [Session 8: OpenMP basics, OpenMP image processing example](/lab/session-08)
-
+- [Session 00 (10-26): Introduction to C programming](/lab/session-00)
+- [Session 01 (11-02): Top 500, Moore's Law](/lab/session-01)
+- [Session 02 (11-09): Pipelining, Instruction-Level Parallelism](/lab/session-02)
+- [Session 03 (11-16): Matrix storage, cache effects](/lab/session-03)
+- [Session 04 (11-23): Matrix multiplication, Tiling technique](/lab/session-04)
+- [Session 05 (11-30): MPI basics, Domain decomposition](/lab/session-05)
+- [Session 06 (12-07): MPI continued, PGAS, Topologies, Stencil basics](/lab/session-06)
+- [Session 07 (12-14): Topology measures, Partitioned stencils](/lab/session-07)
+- [Session 08 (12-21): OpenMP basics, OpenMP image processing example](/lab/session-08)
+- [Session 09 (01-11): OpenMP Tasks](/lab/session-09)
+- [Session 10 (01-18)](/lab/session-10)
+- [Session 11 (01-25)](/lab/session-11)
+- [Session 12 (02-01)](/lab/session-12)
+- [Session 13 (02-08)](/lab/session-13)
+- [Session 14 (02-15): Wrap-up](/lab/session-14)
 
 # Rants & References
 
