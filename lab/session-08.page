@@ -1,0 +1,9 @@
+---
+title: Lab Session 08: OpenMP basics, OpenMP image processing example
+format: Markdown
+categories: lab
+...
+
+- [Slides of this session](/files/slides/2017w/phpc-session-08.pdf)
+- [OpenMP image processing code](/lab/session-08/omp-filters/)
+
