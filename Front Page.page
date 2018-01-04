@@ -14,7 +14,7 @@ title: Parallel and High Performance Computing Course Material
 - [Session 06 (12-07): MPI continued, PGAS, Topologies, Stencil basics](/lab/session-06)
 - [Session 07 (12-14): Topology measures, Partitioned stencils](/lab/session-07)
 - [Session 08 (12-21): OpenMP basics, OpenMP image processing example](/lab/session-08)
-- [Session 09 (01-11): OpenMP Tasks, NUMA, Scalability laws](/lab/session-09)
+- [Session 09 (01-11): OpenMP Tasks, NUMA, Scalability, Performance Pitfalls](/lab/session-09)
 - [Session 10 (01-18): Tracing and Profiling](/lab/session-10)
 - [Session 11 (01-25)](/lab/session-11)
 - [Session 12 (02-01)](/lab/session-12)
