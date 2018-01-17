@@ -14,6 +14,8 @@ categories: lab
 
 - [OpenMP Tasking Lecture Slides](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Vorlesung/10b.OpenMP.Tasking.pdf)
 
+- [EPCC OpenMP Performance Training Summary](https://www.archer.ac.uk/training/course-material/2016/08/160802_AdvOpenMP_Bristol/L08-Performance.pdf)
+
 
 # Measuring Performance
 
@@ -27,16 +29,23 @@ categories: lab
 
 ## Profiling
 
-Recording Program States
+Recording accumulated program states
 
 
 
 ## Tracing
 
-Recording 
+Recording parallel interaction timelines
 
 
 
 # Making Sense of Measurements
+
+- False sharing?
+- First touch?
+
+
+
+
 
 
