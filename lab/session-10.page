@@ -37,8 +37,6 @@ Recording accumulated program states
 
 Recording parallel interaction timelines, we are using eztrace for now (it's lightweight, portable, reasonably powerful and free. As in: not pretty. Always remember: it's free.)
 
-### Quickstart
-
 **First, prepare your environment*:
 
 Install the eztrace-build for SuperMUC in your SuperMUC home directory:
