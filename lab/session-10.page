@@ -4,7 +4,7 @@ format: Markdown
 categories: lab
 ...
 
-
+# References
 
 - [*Prefix Sums and Their Applications*. Blelloch. 1993](https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf)
 - [*Reevaluating Amdahl's Law*. Gustafson. 1988](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Uebung/gustafson-88.pdf)
@@ -13,3 +13,30 @@ categories: lab
 - [EZTrace](http://eztrace.gforge.inria.fr/)
 
 - [OpenMP Tasking Lecture Slides](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Vorlesung/10b.OpenMP.Tasking.pdf)
+
+
+# Measuring Performance
+
+
+## Runtime (Time to Completion)
+
+### Weak Scaling
+
+### Strong Scaling
+
+
+## Profiling
+
+Recording Program States
+
+
+
+## Tracing
+
+Recording 
+
+
+
+# Making Sense of Measurements
+
+
