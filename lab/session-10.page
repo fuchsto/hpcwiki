@@ -6,7 +6,9 @@ categories: lab
 
 
 
-- [Prefix Sums and Their Applications Guy E. Blelloch](https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf)
+- [*Prefix Sums and Their Applications*. Blelloch. 1993](https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf)
+- [*Reevaluating Amdahl's Law*. Gustafson. 1988](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Uebung/gustafson-88.pdf)
+- [*A Simple Capacity Model of Massively Parallel Transaction Systems*. Gunther. 1993](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Uebung/gunther-93.pdf)
 
 - [EZTrace](http://eztrace.gforge.inria.fr/)
 
