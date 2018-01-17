@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1034" height="586" >
+<rect  x="0" y="0" width="1034" height="586" fill="rgb(128, 128, 150)" />
+<clipPath id="stateArea"><path d = "M 206.8 52.74L 206.8 586L 1034 586L 1034 52.74 Z"/></clipPath><g clip-path="url(#stateArea)"></g><rect x="140.09" y="54.6405" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="122.268" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="189.896" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="257.523" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="325.151" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="392.778" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="460.406" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="140.09" y="528.034" width="66.7097" height="57.9665" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="70.7123" y="54.6405" width="66.7097" height="531.359" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<rect x="1.33419" y="54.6405" width="66.7097" height="531.359" fill="rgb(0,0,153)" style="stroke:white;stroke-width:0.05" />
+<text x="140.09" y="83.6238" font-size="10" fill="white">P#0_T#2666203008</text>
+<text x="140.09" y="151.251" font-size="10" fill="white">P#0_T#2625046272</text>
+<text x="140.09" y="218.879" font-size="10" fill="white">P#0_T#2608137984</text>
+<text x="140.09" y="286.506" font-size="10" fill="white">P#0_T#2616592128</text>
+<text x="140.09" y="354.134" font-size="10" fill="white">P#0_T#2599683840</text>
+<text x="140.09" y="421.762" font-size="10" fill="white">P#0_T#2574452480</text>
+<text x="140.09" y="489.389" font-size="10" fill="white">P#0_T#2565998336</text>
+<text x="140.09" y="557.017" font-size="10" fill="white">P#0_T#2298414848</text>
+<text x="70.7123" y="320.32" font-size="10" fill="white">P#0</text>
+<text x="1.33419" y="320.32" font-size="10" fill="white">Program</text>
+<g clip-path="url(#stateArea)"><rect x="206.8" y="54.6405" width="0.317085" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="207.117" y="54.6405" width="0.951254" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="208.618" y="54.6405" width="2.04406" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="208.068" y="54.6405" width="0.543574" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="213.934" y="54.6405" width="2.98399" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="229.925" y="54.6405" width="80.9925" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="229.194" y="54.6405" width="0.730427" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="216.93" y="54.6405" width="12.2531" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="210.667" y="54.6405" width="3.26144" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="310.917" y="54.6405" width="0.532249" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.449" y="54.6405" width="94.6497" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="406.11" y="54.6405" width="5.27153" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.41" y="54.6405" width="115.17" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.596" y="54.6405" width="25.6782" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.41" y="54.6405" width="32.9938" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="585.325" y="54.6405" width="24.8911" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.403" y="54.6405" width="0.113244" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.647" y="54.6405" width="0.107582" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.881" y="54.6405" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.592" y="54.6405" width="0.107582" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.317" y="54.6405" width="0.124569" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.985" y="54.6405" width="0.113244" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.636" y="54.6405" width="420.364" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="227.354" y="122.268" width="83.8292" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.189" y="122.268" width="0.402018" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.981" y="122.268" width="61.4068" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.591" y="122.268" width="38.3786" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.444" y="122.268" width="32.9428" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.398" y="122.268" width="115.187" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="593.615" y="122.268" width="16.596" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.608" y="122.268" width="33.996" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.743" y="122.268" width="0.130231" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.457" y="122.268" width="0.107582" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.668" y="122.268" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.121" y="122.268" width="0.107582" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.614" y="122.268" width="420.386" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="228.062" y="189.896" width="83.0422" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.115" y="189.896" width="0.588871" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.975" y="189.896" width="94.3836" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.704" y="189.896" width="38.2596" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.404" y="189.896" width="115.181" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="585.297" y="189.896" width="24.9138" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.602" y="189.896" width="25.6838" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.641" y="189.896" width="0.181191" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.479" y="189.896" width="0.124569" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.802" y="189.896" width="0.130231" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.436" y="189.896" width="0.158542" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.614" y="189.896" width="420.386" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="228.877" y="257.523" width="82.3004" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.183" y="257.523" width="0.435991" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.981" y="257.523" width="61.4125" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.619" y="257.523" width="38.3446" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.416" y="257.523" width="32.9711" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.398" y="257.523" width="140.842" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="585.291" y="257.523" width="24.9194" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.737" y="257.523" width="0.118907" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.602" y="257.523" width="0.107582" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.955" y="257.523" width="0.130231" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.419" y="257.523" width="0.113244" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.631" y="257.523" width="420.369" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="231.742" y="325.151" width="118.148" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.975" y="325.151" width="61.4125" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.416" y="325.151" width="73.0314" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="484.458" y="325.151" width="75.2113" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.681" y="325.151" width="0.10192" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="586.056" y="325.151" width="24.1607" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.398" y="325.151" width="0.118907" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.783" y="325.151" width="26.2614" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.737" y="325.151" width="0.124569" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.479" y="325.151" width="0.10192" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.587" y="325.151" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.96" y="325.151" width="0.10192" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.312" y="325.151" width="0.124569" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.51" y="325.151" width="0.113244" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.663" y="325.151" width="0.107582" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.614" y="325.151" width="420.386" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="231.963" y="392.778" width="79.2202" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.189" y="392.778" width="0.198178" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.981" y="392.778" width="61.4125" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.387" y="392.778" width="38.5824" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.416" y="392.778" width="32.9825" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.41" y="392.778" width="115.175" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="585.371" y="392.778" width="24.8515" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.608" y="392.778" width="25.6725" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.737" y="392.778" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.021" y="392.778" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.474" y="392.778" width="0.130231" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.983" y="392.778" width="0.107582" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.156" y="392.778" width="0.118907" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.515" y="392.778" width="0.118907" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.668" y="392.778" width="0.124569" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.98" y="392.778" width="0.113244" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.359" y="392.778" width="0.107582" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.614" y="392.778" width="420.386" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="237.008" y="460.406" width="73.8977" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="310.917" y="460.406" width="0.520925" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.975" y="460.406" width="61.4125" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.438" y="460.406" width="38.5258" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.444" y="460.406" width="32.9541" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.41" y="460.406" width="115.232" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="585.297" y="460.406" width="24.9251" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.658" y="460.406" width="25.6216" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.647" y="460.406" width="0.113244" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="610.998" y="460.406" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.474" y="460.406" width="0.107582" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.955" y="460.406" width="0.107582" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.668" y="460.406" width="0.130231" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.359" y="460.406" width="0.10192" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.518" y="460.406" width="0.169867" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.693" y="460.406" width="420.307" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="310.911" y="528.034" width="0.30576" height="57.9665" fill="rgb(204,204,204)" style="stroke:white;stroke-width:0.05" />
+<rect x="349.981" y="528.034" width="61.4408" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="311.217" y="528.034" width="38.7466" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="411.444" y="528.034" width="32.9428" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="444.427" y="528.034" width="115.164" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="585.286" y="528.034" width="24.9251" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="559.608" y="528.034" width="25.6669" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.202" y="528.034" width="0.124569" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.49" y="528.034" width="0.164205" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="611.983" y="528.034" width="0.10192" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.312" y="528.034" width="0.175529" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.612" y="528.034" width="0.141556" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="612.985" y="528.034" width="0.107582" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.297" y="528.034" width="0.130231" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.518" y="528.034" width="0.158542" height="57.9665" fill="rgb(256,0,0)" style="stroke:white;stroke-width:0.05" />
+<rect x="613.682" y="528.034" width="420.318" height="57.9665" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<polygon points="298.498,483.529,310.906,489.389,298.498,495.249" transform = "rotate(81.7442 310.906 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="310.906" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="298.498,551.157,310.906,557.017,298.498,562.877" transform = "rotate(82.9107 310.906 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="310.906" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="298.509,77.7638,310.917,83.6238,298.509,89.4838" transform = "rotate(0 310.917 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="310.917" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="298.696,213.019,311.104,218.879,298.696,224.739" transform = "rotate(66.4372 311.104 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="311.104" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="298.769,280.646,311.177,286.506,298.769,292.366" transform = "rotate(73.7776 311.177 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="311.177" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="298.775,145.391,311.183,151.251,298.775,157.111" transform = "rotate(48.8823 311.183 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="311.183" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="298.775,415.902,311.183,421.762,298.775,427.622" transform = "rotate(80.0971 311.183 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="311.183" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="337.482,348.274,349.89,354.134,337.482,359.994" transform = "rotate(73.3366 349.89 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="207.021" y1="83.6238" x2="349.89" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(90 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="406.11" y1="83.6238" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-64.8088 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.981" y1="151.251" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-81.089 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.981" y1="286.506" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-76.7639 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.975" y1="218.879" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-83.2925 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.975" y1="354.134" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-84.6257 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.981" y1="421.762" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-85.517 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.975" y1="489.389" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="393.702,77.7638,406.11,83.6238,393.702,89.4838" transform = "rotate(-86.1557 406.11 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="349.981" y1="557.017" x2="406.11" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="398.974,77.7638,411.382,83.6238,398.974,89.4838" transform = "rotate(0 411.382 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.382" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="398.979,145.391,411.387,151.251,398.979,157.111" transform = "rotate(87.4895 411.387 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.387" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="398.979,348.274,411.387,354.134,398.979,359.994" transform = "rotate(89.372 411.387 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.387" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="398.979,483.529,411.387,489.389,398.979,495.249" transform = "rotate(89.5813 411.387 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.387" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="398.985,280.646,411.393,286.506,398.985,292.366" transform = "rotate(89.1618 411.393 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.393" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="398.985,415.902,411.393,421.762,398.985,427.622" transform = "rotate(89.4971 411.393 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.393" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="399.013,551.157,411.421,557.017,399.013,562.877" transform = "rotate(89.6388 411.421 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="411.421" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="431.951,213.019,444.359,218.879,431.951,224.739" transform = "rotate(80.9056 444.359 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="406.156" y1="83.6238" x2="444.359" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(0 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.41" y1="83.6238" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(-71.4425 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.398" y1="151.251" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(-83.6149 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.398" y1="286.506" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(-80.4727 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.404" y1="218.879" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(90 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="484.458" y1="354.134" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(-86.1599 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.41" y1="421.762" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(-86.7984 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.41" y1="489.389" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="472.05,77.7638,484.458,83.6238,472.05,89.4838" transform = "rotate(-87.2562 484.458 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="444.427" y1="557.017" x2="484.458" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="547.171,77.7638,559.579,83.6238,547.171,89.4838" transform = "rotate(0 559.579 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.579" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="547.177,145.391,559.585,151.251,547.177,157.111" transform = "rotate(57.8124 559.585 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.585" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="547.177,213.019,559.585,218.879,547.177,224.739" transform = "rotate(72.5304 559.585 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.585" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="547.177,415.902,559.585,421.762,547.177,427.622" transform = "rotate(82.825 559.585 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.585" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="547.183,551.157,559.591,557.017,547.183,562.877" transform = "rotate(84.8615 559.591 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.591" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="547.234,483.529,559.642,489.389,547.234,495.249" transform = "rotate(84.0068 559.642 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.642" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="547.262,348.274,559.67,354.134,547.262,359.994" transform = "rotate(81.0475 559.67 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="559.67" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="572.832,280.646,585.24,286.506,572.832,292.366" transform = "rotate(74.2794 585.24 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="484.475" y1="83.6238" x2="585.24" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(0 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="585.325" y1="83.6238" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(90 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="593.615" y1="151.251" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(-88.6681 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="585.291" y1="286.506" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(-88.0039 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="585.297" y1="218.879" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(-89.0927 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="586.056" y1="354.134" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(-89.2084 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="585.371" y1="421.762" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(-89.3344 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="585.297" y1="489.389" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="581.207,77.7638,593.615,83.6238,581.207,89.4838" transform = "rotate(-89.4287 593.615 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="585.286" y1="557.017" x2="593.615" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.803,145.391,610.211,151.251,597.803,157.111" transform = "rotate(82.0903 610.211 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.211" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="597.803,280.646,610.211,286.506,597.803,292.366" transform = "rotate(87.3484 610.211 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.211" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="597.803,213.019,610.211,218.879,597.803,224.739" transform = "rotate(86.0262 610.211 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.211" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="597.803,551.157,610.211,557.017,597.803,562.877" transform = "rotate(88.863 610.211 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.211" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="597.808,77.7638,610.216,83.6238,597.808,89.4838" transform = "rotate(0 610.216 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.216" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.808,348.274,610.216,354.134,597.808,359.994" transform = "rotate(88.01 610.216 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.216" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="597.814,415.902,610.222,421.762,597.814,427.622" transform = "rotate(88.4072 610.222 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.222" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="597.814,483.529,610.222,489.389,597.814,495.249" transform = "rotate(88.6726 610.222 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="593.632" y1="83.6238" x2="610.222" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(0 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.313" y1="83.6238" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(90 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.318" y1="151.251" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(-89.9955 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.29" y1="286.506" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(-89.9932 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.29" y1="218.879" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(-89.9966 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.29" y1="354.134" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(-89.9967 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.284" y1="421.762" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(-89.9977 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.29" y1="489.389" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.91,77.7638,610.318,83.6238,597.91,89.4838" transform = "rotate(-89.9988 610.318 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.301" y1="557.017" x2="610.318" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.927,77.7638,610.335,83.6238,597.927,89.4838" transform = "rotate(0 610.335 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.335" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="597.927,145.391,610.335,151.251,597.927,157.111" transform = "rotate(89.9946 610.335 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.335" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="597.927,280.646,610.335,286.506,597.927,292.366" transform = "rotate(89.9982 610.335 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.335" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="597.927,348.274,610.335,354.134,597.927,359.994" transform = "rotate(89.9986 610.335 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.335" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="597.927,415.902,610.335,421.762,597.927,427.622" transform = "rotate(89.9989 610.335 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.335" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="597.944,213.019,610.352,218.879,597.944,224.739" transform = "rotate(89.9932 610.352 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.352" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="597.944,483.529,610.352,489.389,597.944,495.249" transform = "rotate(89.9977 610.352 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.352" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="597.95,551.157,610.358,557.017,597.95,562.877" transform = "rotate(89.9977 610.358 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="610.324" y1="83.6238" x2="610.358" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(0 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.403" y1="83.6238" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(-89.9864 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.403" y1="151.251" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(-89.9982 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.42" y1="286.506" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(-89.9918 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.398" y1="218.879" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(-89.9959 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.398" y1="354.134" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(-89.9967 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.398" y1="421.762" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(90 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.432" y1="489.389" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.024,77.7638,610.432,83.6238,598.024,89.4838" transform = "rotate(-89.9988 610.432 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.415" y1="557.017" x2="610.432" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.035,213.019,610.443,218.879,598.035,224.739" transform = "rotate(89.9986 610.443 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.443" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.035,483.529,610.443,489.389,598.035,495.249" transform = "rotate(89.9995 610.443 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.443" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.041,415.902,610.449,421.762,598.041,427.622" transform = "rotate(89.9989 610.449 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.449" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.058,280.646,610.466,286.506,598.058,292.366" transform = "rotate(89.9955 610.466 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.466" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.058,551.157,610.466,557.017,598.058,562.877" transform = "rotate(89.9981 610.466 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.466" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.063,145.391,610.471,151.251,598.063,157.111" transform = "rotate(89.9837 610.471 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.471" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.109,77.7638,610.517,83.6238,598.109,89.4838" transform = "rotate(0 610.517 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.517" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.109,348.274,610.517,354.134,598.109,359.994" transform = "rotate(89.9905 610.517 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="610.437" y1="83.6238" x2="610.517" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(90 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.573" y1="83.6238" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9946 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.562" y1="151.251" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9955 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.545" y1="286.506" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9932 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.545" y1="218.879" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9993 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.568" y1="354.134" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9995 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.568" y1="421.762" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9977 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.545" y1="489.389" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.165,77.7638,610.573,83.6238,598.165,89.4838" transform = "rotate(-89.9981 610.573 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.545" y1="557.017" x2="610.573" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.177,348.274,610.585,354.134,598.177,359.994" transform = "rotate(89.9993 610.585 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.585" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.177,415.902,610.585,421.762,598.177,427.622" transform = "rotate(89.9995 610.585 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.585" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.177,483.529,610.585,489.389,598.177,495.249" transform = "rotate(89.9995 610.585 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.585" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.182,77.7638,610.59,83.6238,598.182,89.4838" transform = "rotate(0 610.59 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.59" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.182,280.646,610.59,286.506,598.182,292.366" transform = "rotate(89.9982 610.59 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.59" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.182,213.019,610.59,218.879,598.182,224.739" transform = "rotate(89.9973 610.59 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.59" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.182,551.157,610.59,557.017,598.182,562.877" transform = "rotate(89.9992 610.59 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.59" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.205,145.391,610.613,151.251,598.205,157.111" transform = "rotate(89.9837 610.613 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="610.579" y1="83.6238" x2="610.613" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(0 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.647" y1="83.6238" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(-89.981 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.675" y1="151.251" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(90 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.715" y1="286.506" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(-89.9823 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.641" y1="218.879" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(-89.9918 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.647" y1="354.134" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(-89.9957 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.669" y1="421.762" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(-89.9946 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.647" y1="489.389" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.307,77.7638,610.715,83.6238,598.307,89.4838" transform = "rotate(-89.9953 610.715 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.647" y1="557.017" x2="610.715" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.318,348.274,610.726,354.134,598.318,359.994" transform = "rotate(89.9993 610.726 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.726" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.324,145.391,610.732,151.251,598.324,157.111" transform = "rotate(89.9946 610.732 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.732" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.324,280.646,610.732,286.506,598.324,292.366" transform = "rotate(89.9982 610.732 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.732" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.324,415.902,610.732,421.762,598.324,427.622" transform = "rotate(89.9989 610.732 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.732" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.324,551.157,610.732,557.017,598.324,562.877" transform = "rotate(89.9992 610.732 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.732" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.346,77.7638,610.754,83.6238,598.346,89.4838" transform = "rotate(0 610.754 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.754" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.352,483.529,610.76,489.389,598.352,495.249" transform = "rotate(89.9968 610.76 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.76" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.414,213.019,610.822,218.879,598.414,224.739" transform = "rotate(89.9755 610.822 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="610.72" y1="83.6238" x2="610.822" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(90 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.879" y1="83.6238" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(90 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.879" y1="151.251" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(-89.9973 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.862" y1="286.506" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(-89.9918 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.845" y1="218.879" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(-89.9986 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.868" y1="354.134" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(-89.9967 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.845" y1="421.762" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(-89.9973 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.845" y1="489.389" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.471,77.7638,610.879,83.6238,598.471,89.4838" transform = "rotate(-89.9992 610.879 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.868" y1="557.017" x2="610.879" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.482,145.391,610.89,151.251,598.482,157.111" transform = "rotate(89.9973 610.89 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.89" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.482,280.646,610.89,286.506,598.482,292.366" transform = "rotate(89.9991 610.89 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.89" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.482,348.274,610.89,354.134,598.482,359.994" transform = "rotate(89.9993 610.89 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.89" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.488,77.7638,610.896,83.6238,598.488,89.4838" transform = "rotate(0 610.896 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.896" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.505,415.902,610.913,421.762,598.505,427.622" transform = "rotate(89.9973 610.913 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.913" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.516,213.019,610.924,218.879,598.516,224.739" transform = "rotate(89.9905 610.924 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.924" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.516,483.529,610.924,489.389,598.516,495.249" transform = "rotate(89.9968 610.924 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.924" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.516,551.157,610.924,557.017,598.516,562.877" transform = "rotate(89.9973 610.924 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="610.885" y1="83.6238" x2="610.924" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(0 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.964" y1="83.6238" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(90 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.975" y1="151.251" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(-89.9964 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.953" y1="286.506" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(-89.9946 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.953" y1="218.879" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(-89.9993 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.97" y1="354.134" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(90 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.975" y1="421.762" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(-89.9977 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.947" y1="489.389" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.567,77.7638,610.975,83.6238,598.567,89.4838" transform = "rotate(-89.9981 610.975 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.947" y1="557.017" x2="610.975" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.579,348.274,610.987,354.134,598.579,359.994" transform = "rotate(89.9993 610.987 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="610.987" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.584,77.7638,610.992,83.6238,598.584,89.4838" transform = "rotate(0 610.992 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="610.992" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.584,145.391,610.992,151.251,598.584,157.111" transform = "rotate(89.9946 610.992 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="610.992" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.584,280.646,610.992,286.506,598.584,292.366" transform = "rotate(89.9982 610.992 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="610.992" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.584,483.529,610.992,489.389,598.584,495.249" transform = "rotate(89.9991 610.992 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="610.992" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.584,551.157,610.992,557.017,598.584,562.877" transform = "rotate(89.9992 610.992 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="610.992" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.601,415.902,611.009,421.762,598.601,427.622" transform = "rotate(89.9973 611.009 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="611.009" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.607,213.019,611.015,218.879,598.607,224.739" transform = "rotate(89.9918 611.015 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="610.981" y1="83.6238" x2="611.015" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(0 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.122" y1="83.6238" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(-89.9891 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.105" y1="151.251" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(-89.9973 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.111" y1="286.506" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(-89.9986 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.122" y1="218.879" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(-89.9973 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.105" y1="354.134" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(90 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.128" y1="421.762" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(-89.9982 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.105" y1="489.389" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.72,77.7638,611.128,83.6238,598.72,89.4838" transform = "rotate(-89.9984 611.128 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.105" y1="557.017" x2="611.128" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.737,145.391,611.145,151.251,598.737,157.111" transform = "rotate(89.9946 611.145 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.145" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.737,280.646,611.145,286.506,598.737,292.366" transform = "rotate(89.9982 611.145 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.145" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.737,348.274,611.145,354.134,598.737,359.994" transform = "rotate(89.9986 611.145 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.145" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.737,415.902,611.145,421.762,598.737,427.622" transform = "rotate(89.9989 611.145 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.145" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.737,483.529,611.145,489.389,598.737,495.249" transform = "rotate(89.9991 611.145 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.145" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.737,551.157,611.145,557.017,598.737,562.877" transform = "rotate(89.9992 611.145 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.145" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.765,213.019,611.173,218.879,598.765,224.739" transform = "rotate(89.9905 611.173 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.173" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.771,77.7638,611.179,83.6238,598.771,89.4838" transform = "rotate(0 611.179 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.134" y1="83.6238" x2="611.179" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(0 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.264" y1="83.6238" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(-89.9728 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.224" y1="151.251" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(-89.9918 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.23" y1="286.506" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(-89.9878 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.23" y1="218.879" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(-89.9905 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.202" y1="354.134" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(90 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.281" y1="421.762" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(-89.9937 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.202" y1="489.389" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.873,77.7638,611.281,83.6238,598.873,89.4838" transform = "rotate(-89.9946 611.281 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.202" y1="557.017" x2="611.281" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.884,348.274,611.292,354.134,598.884,359.994" transform = "rotate(89.9993 611.292 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.292" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="598.884,415.902,611.292,421.762,598.884,427.622" transform = "rotate(89.9995 611.292 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.292" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="598.884,483.529,611.292,489.389,598.884,495.249" transform = "rotate(89.9995 611.292 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.292" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="598.89,280.646,611.298,286.506,598.89,292.366" transform = "rotate(89.9982 611.298 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.298" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="598.901,145.391,611.309,151.251,598.901,157.111" transform = "rotate(89.9891 611.309 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.309" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="598.918,77.7638,611.326,83.6238,598.918,89.4838" transform = "rotate(0 611.326 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.326" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.918,213.019,611.326,218.879,598.918,224.739" transform = "rotate(89.9905 611.326 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.326" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="598.918,551.157,611.326,557.017,598.918,562.877" transform = "rotate(89.9973 611.326 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="611.287" y1="83.6238" x2="611.326" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(0 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.372" y1="83.6238" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(-89.9837 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.372" y1="151.251" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(-89.9982 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.394" y1="286.506" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(-89.9905 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.366" y1="218.879" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(-89.9986 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.394" y1="354.134" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(-89.9967 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.372" y1="421.762" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(-89.9995 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.4" y1="489.389" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="598.998,77.7638,611.406,83.6238,598.998,89.4838" transform = "rotate(90 611.406 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.406" y1="557.017" x2="611.406" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.009,348.274,611.417,354.134,599.009,359.994" transform = "rotate(89.9993 611.417 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.417" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.009,483.529,611.417,489.389,599.009,495.249" transform = "rotate(89.9995 611.417 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.417" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.015,77.7638,611.423,83.6238,599.015,89.4838" transform = "rotate(0 611.423 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.423" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.015,145.391,611.423,151.251,599.015,157.111" transform = "rotate(89.9946 611.423 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.423" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.015,280.646,611.423,286.506,599.015,292.366" transform = "rotate(89.9982 611.423 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.423" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.015,415.902,611.423,421.762,599.015,427.622" transform = "rotate(89.9989 611.423 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.423" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.015,551.157,611.423,557.017,599.015,562.877" transform = "rotate(89.9992 611.423 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.423" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.043,213.019,611.451,218.879,599.043,224.739" transform = "rotate(89.9905 611.451 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="611.411" y1="83.6238" x2="611.451" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(0 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.502" y1="83.6238" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(90 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.57" y1="151.251" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(-89.99 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.507" y1="286.506" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(-89.9783 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.479" y1="218.879" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(-89.9891 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.479" y1="354.134" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(-89.9908 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.474" y1="421.762" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(-89.9923 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.474" y1="489.389" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.162,77.7638,611.57,83.6238,599.162,89.4838" transform = "rotate(-89.9946 611.57 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.49" y1="557.017" x2="611.57" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.173,280.646,611.581,286.506,599.173,292.366" transform = "rotate(89.9991 611.581 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.581" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.173,348.274,611.581,354.134,599.173,359.994" transform = "rotate(89.9993 611.581 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.581" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.173,483.529,611.581,489.389,599.173,495.249" transform = "rotate(89.9995 611.581 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.581" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.179,77.7638,611.587,83.6238,599.179,89.4838" transform = "rotate(0 611.587 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.587" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.196,213.019,611.604,218.879,599.196,224.739" transform = "rotate(89.9932 611.604 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.604" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="599.196,415.902,611.604,421.762,599.196,427.622" transform = "rotate(89.9973 611.604 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.604" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.201,145.391,611.609,151.251,599.201,157.111" transform = "rotate(89.9837 611.609 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.609" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.247,551.157,611.655,557.017,599.247,562.877" transform = "rotate(89.9946 611.655 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="611.575" y1="83.6238" x2="611.655" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(90 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.706" y1="83.6238" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9864 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.677" y1="151.251" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9955 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.677" y1="286.506" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9986 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.7" y1="218.879" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9986 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.694" y1="354.134" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9973 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.677" y1="421.762" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9991 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.694" y1="489.389" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.298,77.7638,611.706,83.6238,599.298,89.4838" transform = "rotate(-89.9981 611.706 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.677" y1="557.017" x2="611.706" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.309,348.274,611.717,354.134,599.309,359.994" transform = "rotate(89.9993 611.717 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.717" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.315,77.7638,611.723,83.6238,599.315,89.4838" transform = "rotate(0 611.723 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.723" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.315,145.391,611.723,151.251,599.315,157.111" transform = "rotate(89.9946 611.723 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.723" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.315,280.646,611.723,286.506,599.315,292.366" transform = "rotate(89.9982 611.723 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.723" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.315,415.902,611.723,421.762,599.315,427.622" transform = "rotate(89.9989 611.723 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.723" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.332,213.019,611.74,218.879,599.332,224.739" transform = "rotate(89.9932 611.74 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.74" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="599.332,551.157,611.74,557.017,599.332,562.877" transform = "rotate(89.9981 611.74 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.74" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.343,483.529,611.751,489.389,599.343,495.249" transform = "rotate(89.9968 611.751 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="611.711" y1="83.6238" x2="611.751" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(0 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.774" y1="83.6238" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(90 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.853" y1="151.251" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(-89.9918 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.802" y1="286.506" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(-89.9878 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.802" y1="218.879" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(-89.9905 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.774" y1="354.134" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(-89.9924 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.774" y1="421.762" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(-89.9937 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.774" y1="489.389" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.445,77.7638,611.853,83.6238,599.445,89.4838" transform = "rotate(-89.9965 611.853 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.802" y1="557.017" x2="611.853" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.456,348.274,611.864,354.134,599.456,359.994" transform = "rotate(89.9993 611.864 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.864" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.462,77.7638,611.87,83.6238,599.462,89.4838" transform = "rotate(0 611.87 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.87" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.462,415.902,611.87,421.762,599.462,427.622" transform = "rotate(89.9989 611.87 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.87" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.462,483.529,611.87,489.389,599.462,495.249" transform = "rotate(89.9991 611.87 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.87" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.462,551.157,611.87,557.017,599.462,562.877" transform = "rotate(89.9992 611.87 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.87" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.479,145.391,611.887,151.251,599.479,157.111" transform = "rotate(89.9864 611.887 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.887" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.49,280.646,611.898,286.506,599.49,292.366" transform = "rotate(89.9937 611.898 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.898" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.524,213.019,611.932,218.879,599.524,224.739" transform = "rotate(89.9823 611.932 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="611.859" y1="83.6238" x2="611.932" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(0 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.989" y1="83.6238" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(-89.9728 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.989" y1="151.251" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(-89.9855 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.955" y1="286.506" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(90 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.045" y1="218.879" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(-89.9898 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.96" y1="354.134" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(-89.994 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.983" y1="421.762" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(-89.9928 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.955" y1="489.389" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.637,77.7638,612.045,83.6238,599.637,89.4838" transform = "rotate(-89.9957 612.045 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="611.983" y1="557.017" x2="612.045" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.654,77.7638,612.062,83.6238,599.654,89.4838" transform = "rotate(0 612.062 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.062" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.654,145.391,612.062,151.251,599.654,157.111" transform = "rotate(89.9946 612.062 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.062" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.654,213.019,612.062,218.879,599.654,224.739" transform = "rotate(89.9973 612.062 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.062" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="599.654,348.274,612.062,354.134,599.654,359.994" transform = "rotate(89.9986 612.062 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.062" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.654,483.529,612.062,489.389,599.654,495.249" transform = "rotate(89.9991 612.062 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.062" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.677,280.646,612.085,286.506,599.677,292.366" transform = "rotate(89.9946 612.085 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.085" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.677,551.157,612.085,557.017,599.677,562.877" transform = "rotate(89.9977 612.085 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.085" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.683,415.902,612.091,421.762,599.683,427.622" transform = "rotate(89.9962 612.091 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.051" y1="83.6238" x2="612.091" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(90 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.147" y1="83.6238" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(-89.9864 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.119" y1="151.251" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(-89.9955 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.119" y1="286.506" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(-89.9946 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.125" y1="218.879" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(90 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.147" y1="354.134" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(90 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.147" y1="421.762" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(-89.9977 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.119" y1="489.389" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.739,77.7638,612.147,83.6238,599.739,89.4838" transform = "rotate(-89.9996 612.147 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.142" y1="557.017" x2="612.147" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.751,348.274,612.159,354.134,599.751,359.994" transform = "rotate(89.9993 612.159 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.159" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.756,77.7638,612.164,83.6238,599.756,89.4838" transform = "rotate(0 612.164 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.164" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.756,415.902,612.164,421.762,599.756,427.622" transform = "rotate(89.9989 612.164 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.164" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.756,483.529,612.164,489.389,599.756,495.249" transform = "rotate(89.9991 612.164 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.164" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.756,551.157,612.164,557.017,599.756,562.877" transform = "rotate(89.9992 612.164 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.164" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.773,280.646,612.181,286.506,599.773,292.366" transform = "rotate(89.9955 612.181 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.181" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.779,213.019,612.187,218.879,599.779,224.739" transform = "rotate(89.9918 612.187 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.187" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="599.79,145.391,612.198,151.251,599.79,157.111" transform = "rotate(89.9782 612.198 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.153" y1="83.6238" x2="612.198" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(90 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.289" y1="83.6238" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9783 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.244" y1="151.251" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9937 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.249" y1="286.506" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9878 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.238" y1="218.879" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9918 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.221" y1="354.134" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9935 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.221" y1="421.762" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9968 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.249" y1="489.389" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.881,77.7638,612.289,83.6238,599.881,89.4838" transform = "rotate(-89.9953 612.289 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.221" y1="557.017" x2="612.289" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.892,348.274,612.3,354.134,599.892,359.994" transform = "rotate(89.9993 612.3 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.3" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="599.898,77.7638,612.306,83.6238,599.898,89.4838" transform = "rotate(0 612.306 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.306" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="599.898,415.902,612.306,421.762,599.898,427.622" transform = "rotate(89.9989 612.306 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.306" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="599.898,483.529,612.306,489.389,599.898,495.249" transform = "rotate(89.9991 612.306 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.306" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="599.898,551.157,612.306,557.017,599.898,562.877" transform = "rotate(89.9992 612.306 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.306" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="599.92,145.391,612.328,151.251,599.92,157.111" transform = "rotate(89.9837 612.328 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.328" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="599.92,280.646,612.328,286.506,599.92,292.366" transform = "rotate(89.9946 612.328 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.328" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="599.926,213.019,612.334,218.879,599.926,224.739" transform = "rotate(89.9905 612.334 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.295" y1="83.6238" x2="612.334" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(0 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.447" y1="83.6238" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(-89.9647 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.419" y1="151.251" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(-89.9882 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.419" y1="286.506" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(-89.9864 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.436" y1="218.879" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(-89.9939 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.442" y1="354.134" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(-89.9929 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.419" y1="421.762" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(-89.9964 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.447" y1="489.389" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.085,77.7638,612.493,83.6238,600.085,89.4838" transform = "rotate(90 612.493 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="557.017" x2="612.493" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.096,145.391,612.504,151.251,600.096,157.111" transform = "rotate(89.9946 612.504 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.504" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.096,348.274,612.504,354.134,600.096,359.994" transform = "rotate(89.9986 612.504 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.504" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.096,415.902,612.504,421.762,600.096,427.622" transform = "rotate(89.9989 612.504 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.504" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.096,551.157,612.504,557.017,600.096,562.877" transform = "rotate(89.9992 612.504 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.504" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="600.119,77.7638,612.527,83.6238,600.119,89.4838" transform = "rotate(0 612.527 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.527" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.124,280.646,612.532,286.506,600.124,292.366" transform = "rotate(89.9937 612.532 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.532" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.124,483.529,612.532,489.389,600.124,495.249" transform = "rotate(89.9968 612.532 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.532" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.187,213.019,612.595,218.879,600.187,224.739" transform = "rotate(89.9755 612.595 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.493" y1="83.6238" x2="612.595" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(0 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.617" y1="83.6238" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(-89.9864 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.612" y1="151.251" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(90 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.64" y1="286.506" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(-89.9946 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.617" y1="218.879" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(-89.9993 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.634" y1="354.134" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(90 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.64" y1="421.762" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(90 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.64" y1="489.389" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.232,77.7638,612.64,83.6238,600.232,89.4838" transform = "rotate(-89.9981 612.64 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.612" y1="557.017" x2="612.64" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.249,145.391,612.657,151.251,600.249,157.111" transform = "rotate(89.9946 612.657 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.657" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.249,213.019,612.657,218.879,600.249,224.739" transform = "rotate(89.9973 612.657 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.657" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.249,348.274,612.657,354.134,600.249,359.994" transform = "rotate(89.9986 612.657 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.657" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.249,415.902,612.657,421.762,600.249,427.622" transform = "rotate(89.9989 612.657 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.657" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.249,483.529,612.657,489.389,600.249,495.249" transform = "rotate(89.9991 612.657 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.657" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.272,280.646,612.68,286.506,600.272,292.366" transform = "rotate(89.9946 612.68 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.68" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.277,77.7638,612.685,83.6238,600.277,89.4838" transform = "rotate(0 612.685 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.685" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.345,551.157,612.753,557.017,600.345,562.877" transform = "rotate(89.9926 612.753 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.646" y1="83.6238" x2="612.753" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(0 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.776" y1="83.6238" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(-89.9837 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.776" y1="151.251" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(-89.9946 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.776" y1="286.506" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(-89.9918 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.776" y1="218.879" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(-89.9959 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.776" y1="354.134" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(-89.9995 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.804" y1="421.762" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(90 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.81" y1="489.389" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.402,77.7638,612.81,83.6238,600.402,89.4838" transform = "rotate(-89.9996 612.81 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.804" y1="557.017" x2="612.81" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.413,77.7638,612.821,83.6238,600.413,89.4838" transform = "rotate(0 612.821 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.821" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.413,213.019,612.821,218.879,600.413,224.739" transform = "rotate(89.9986 612.821 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.821" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.413,348.274,612.821,354.134,600.413,359.994" transform = "rotate(89.9993 612.821 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.821" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.413,415.902,612.821,421.762,600.413,427.622" transform = "rotate(89.9995 612.821 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.821" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.413,483.529,612.821,489.389,600.413,495.249" transform = "rotate(89.9995 612.821 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.821" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.43,145.391,612.838,151.251,600.43,157.111" transform = "rotate(89.9891 612.838 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.838" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.441,280.646,612.849,286.506,600.441,292.366" transform = "rotate(89.9946 612.849 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.849" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.447,551.157,612.855,557.017,600.447,562.877" transform = "rotate(89.9973 612.855 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.815" y1="83.6238" x2="612.855" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(0 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.895" y1="83.6238" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(-89.9891 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.883" y1="151.251" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(90 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.906" y1="286.506" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(-89.9932 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.878" y1="218.879" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(-89.9993 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.9" y1="354.134" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(-89.9973 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.878" y1="421.762" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(-89.9982 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.883" y1="489.389" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.498,77.7638,612.906,83.6238,600.498,89.4838" transform = "rotate(-89.9981 612.906 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.878" y1="557.017" x2="612.906" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.515,77.7638,612.923,83.6238,600.515,89.4838" transform = "rotate(0 612.923 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.923" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.515,145.391,612.923,151.251,600.515,157.111" transform = "rotate(89.9946 612.923 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.923" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.515,280.646,612.923,286.506,600.515,292.366" transform = "rotate(89.9982 612.923 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.923" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.515,348.274,612.923,354.134,600.515,359.994" transform = "rotate(89.9986 612.923 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.923" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.515,415.902,612.923,421.762,600.515,427.622" transform = "rotate(89.9989 612.923 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.923" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.532,483.529,612.94,489.389,600.532,495.249" transform = "rotate(89.9977 612.94 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.94" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.538,551.157,612.946,557.017,600.538,562.877" transform = "rotate(89.9977 612.946 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.946" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="600.543,213.019,612.951,218.879,600.543,224.739" transform = "rotate(89.9905 612.951 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="612.912" y1="83.6238" x2="612.951" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(0 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.985" y1="83.6238" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(90 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.053" y1="151.251" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(-89.9909 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.997" y1="286.506" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(-89.9837 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.985" y1="218.879" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(-89.9952 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.014" y1="354.134" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(-89.9929 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.98" y1="421.762" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(-89.9955 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.997" y1="489.389" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.645,77.7638,613.053,83.6238,600.645,89.4838" transform = "rotate(-89.9953 613.053 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="612.985" y1="557.017" x2="613.053" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.657,348.274,613.065,354.134,600.657,359.994" transform = "rotate(89.9993 613.065 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.065" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.657,483.529,613.065,489.389,600.657,495.249" transform = "rotate(89.9995 613.065 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.065" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.662,145.391,613.07,151.251,600.662,157.111" transform = "rotate(89.9946 613.07 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.07" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.662,280.646,613.07,286.506,600.662,292.366" transform = "rotate(89.9982 613.07 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.07" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.662,213.019,613.07,218.879,600.662,224.739" transform = "rotate(89.9973 613.07 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.07" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.685,415.902,613.093,421.762,600.685,427.622" transform = "rotate(89.9967 613.093 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.093" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.685,551.157,613.093,557.017,600.685,562.877" transform = "rotate(89.9977 613.093 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.093" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="600.691,77.7638,613.099,83.6238,600.691,89.4838" transform = "rotate(0 613.099 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.059" y1="83.6238" x2="613.099" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(0 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.127" y1="83.6238" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(-89.9647 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.121" y1="151.251" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(-89.9882 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.121" y1="286.506" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(-89.9878 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.144" y1="218.879" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(-89.9939 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.144" y1="354.134" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(-89.9946 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.138" y1="421.762" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(-89.9946 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.127" y1="489.389" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.787,77.7638,613.195,83.6238,600.787,89.4838" transform = "rotate(90 613.195 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.195" y1="557.017" x2="613.195" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.798,348.274,613.206,354.134,600.798,359.994" transform = "rotate(89.9993 613.206 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.206" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.804,77.7638,613.212,83.6238,600.804,89.4838" transform = "rotate(0 613.212 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.212" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.804,280.646,613.212,286.506,600.804,292.366" transform = "rotate(89.9982 613.212 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.212" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.804,483.529,613.212,489.389,600.804,495.249" transform = "rotate(89.9991 613.212 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.212" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.804,551.157,613.212,557.017,600.804,562.877" transform = "rotate(89.9992 613.212 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.212" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="600.821,145.391,613.229,151.251,600.821,157.111" transform = "rotate(89.9864 613.229 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.229" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.826,213.019,613.234,218.879,600.826,224.739" transform = "rotate(89.9918 613.234 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.234" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="600.826,415.902,613.234,421.762,600.826,427.622" transform = "rotate(89.9967 613.234 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="613.2" y1="83.6238" x2="613.234" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(0 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.302" y1="83.6238" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(-89.9674 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.263" y1="151.251" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(-89.9955 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.302" y1="286.506" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(-89.985 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.268" y1="218.879" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(-89.9946 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.285" y1="354.134" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(90 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.331" y1="421.762" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(-89.995 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.268" y1="489.389" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.923,77.7638,613.331,83.6238,600.923,89.4838" transform = "rotate(-89.9977 613.331 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.297" y1="557.017" x2="613.331" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.934,348.274,613.342,354.134,600.934,359.994" transform = "rotate(89.9993 613.342 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.342" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="600.934,415.902,613.342,421.762,600.934,427.622" transform = "rotate(89.9995 613.342 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.342" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="600.934,483.529,613.342,489.389,600.934,495.249" transform = "rotate(89.9995 613.342 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.342" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="600.94,77.7638,613.348,83.6238,600.94,89.4838" transform = "rotate(0 613.348 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.348" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="600.94,145.391,613.348,151.251,600.94,157.111" transform = "rotate(89.9946 613.348 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.348" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="600.957,280.646,613.365,286.506,600.957,292.366" transform = "rotate(89.9955 613.365 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.365" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="600.957,213.019,613.365,218.879,600.957,224.739" transform = "rotate(89.9932 613.365 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.365" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="601.019,551.157,613.427,557.017,601.019,562.877" transform = "rotate(89.9938 613.427 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="613.336" y1="83.6238" x2="613.427" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(0 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.45" y1="83.6238" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(90 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.484" y1="151.251" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(-89.9946 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.45" y1="286.506" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(-89.9918 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.45" y1="218.879" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(-89.9986 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.472" y1="354.134" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(-89.9989 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.472" y1="421.762" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(-89.9991 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.472" y1="489.389" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.076,77.7638,613.484,83.6238,601.076,89.4838" transform = "rotate(-89.9977 613.484 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.45" y1="557.017" x2="613.484" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.087,348.274,613.495,354.134,601.087,359.994" transform = "rotate(89.9993 613.495 354.134 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.495" y2="354.134" stroke="rgb(256,256,256)"/>
+<polygon points="601.093,77.7638,613.501,83.6238,601.093,89.4838" transform = "rotate(0 613.501 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.501" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.093,145.391,613.501,151.251,601.093,157.111" transform = "rotate(89.9946 613.501 151.251 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.501" y2="151.251" stroke="rgb(256,256,256)"/>
+<polygon points="601.093,483.529,613.501,489.389,601.093,495.249" transform = "rotate(89.9991 613.501 489.389 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.501" y2="489.389" stroke="rgb(256,256,256)"/>
+<polygon points="601.093,551.157,613.501,557.017,601.093,562.877" transform = "rotate(89.9992 613.501 557.017 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.501" y2="557.017" stroke="rgb(256,256,256)"/>
+<polygon points="601.11,213.019,613.518,218.879,601.11,224.739" transform = "rotate(89.9932 613.518 218.879 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.518" y2="218.879" stroke="rgb(256,256,256)"/>
+<polygon points="601.121,415.902,613.529,421.762,601.121,427.622" transform = "rotate(89.9962 613.529 421.762 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.529" y2="421.762" stroke="rgb(256,256,256)"/>
+<polygon points="601.127,280.646,613.535,286.506,601.127,292.366" transform = "rotate(89.9927 613.535 286.506 )" fill="rgb(256,256,256)"/>
+<line x1="613.489" y1="83.6238" x2="613.535" y2="286.506" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(0 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.636" y1="83.6238" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(-89.9619 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.614" y1="151.251" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(-89.99 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.631" y1="286.506" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(-89.981 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.614" y1="218.879" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(-89.9905 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.614" y1="354.134" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(-89.9924 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.614" y1="421.762" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(90 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.693" y1="489.389" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+<polygon points="601.285,77.7638,613.693,83.6238,601.285,89.4838" transform = "rotate(-89.9992 613.693 83.6238 )" fill="rgb(256,256,256)"/>
+<line x1="613.682" y1="557.017" x2="613.693" y2="83.6238" stroke="rgb(256,256,256)"/>
+</g><rect x="206.8" y="17.58" width="827.2" height="32.23" fill="rgb(0,0,256)" style="stroke:white;stroke-width:0.05" />
+<rect x="206.8" y="0" width="827.2" height="17.58" fill="rgb(0,0,0)" style="stroke:white;stroke-width:0.05" />
+<line x1="263.422" y1="17.58" x2="263.422" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="320.044" y1="17.58" x2="320.044" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="376.667" y1="17.58" x2="376.667" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="433.289" y1="17.58" x2="433.289" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="206.8" y1="17.58" x2="206.8" y2="41.02" stroke="rgb(256,256,256)"/>
+<line x1="546.533" y1="17.58" x2="546.533" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="603.156" y1="17.58" x2="603.156" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="659.778" y1="17.58" x2="659.778" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="716.4" y1="17.58" x2="716.4" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="489.911" y1="17.58" x2="489.911" y2="41.02" stroke="rgb(256,256,256)"/>
+<line x1="829.645" y1="17.58" x2="829.645" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="886.267" y1="17.58" x2="886.267" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="942.889" y1="17.58" x2="942.889" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="999.511" y1="17.58" x2="999.511" y2="29.3" stroke="rgb(256,256,256)"/>
+<line x1="773.022" y1="17.58" x2="773.022" y2="41.02" stroke="rgb(256,256,256)"/>
+<text x="206.8" y="17.58" font-size="14" fill="white">min: 0</text>
+<text x="827.2" y="17.58" font-size="14" fill="white">max: 146.091</text>
+<text x="217.14" y="46.88" font-size="10" fill="white">0</text>
+<text x="500.251" y="46.88" font-size="10" fill="white">50</text>
+<text x="783.362" y="46.88" font-size="10" fill="white">100</text>
+<g clip-path="url(#stateArea)"></g></svg>
