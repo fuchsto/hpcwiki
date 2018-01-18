@@ -20,6 +20,8 @@ categories: lab
 
 - [EPCC OpenMP Performance Training Summary](https://www.archer.ac.uk/training/course-material/2016/08/160802_AdvOpenMP_Bristol/L08-Performance.pdf)
 
+- [Article on false sharing by Sutter himself](http://www.drdobbs.com/parallel/eliminate-false-sharing/217500206) on Dr. Dobbs
+
 
 # Measuring Performance
 
