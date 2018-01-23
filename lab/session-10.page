@@ -15,6 +15,7 @@ categories: lab
 - [*A Simple Capacity Model of Massively Parallel Transaction Systems*. Gunther. 1993](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Uebung/gunther-93.pdf)
 
 - [EZTrace](http://eztrace.gforge.inria.fr/)
+- [*Visualizing Execution Traces with Task Dependencies*. Haugen et al. 2017](http://www.cnsm-conf.org/2017/files/vpa_trace.pdf)
 
 - [OpenMP Tasking Lecture Slides](http://mnm-team.org/teaching/Vorlesungen/2017ws/parallel/protect/Vorlesung/10b.OpenMP.Tasking.pdf)
 - [OpenMP Task-parallel Sum (wikibooks)](https://en.wikibooks.org/wiki/OpenMP/Tasks)
