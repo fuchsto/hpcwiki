@@ -4,4 +4,90 @@ format: Markdown
 categories: lab
 ...
 
-- [Slides of this session](/files/slides/2017w/phpc-session-04.pdf)
+- [Slides from this session](/files/slides/2017w/phpc-session-04.pdf)
+- [Code discussed in this session](/lab/session-04/)
+
+# Example: Loop Tiling in Sequential DGEMM
+
+In the unoptimized variant, the calculation of every single cell references
+a matrix row with low temporal locality. PAPI reports 1.08 billion cache
+misses in L2 data cache.
+
+**Note** that the cache misses we estimated from the number of loop
+iterations is actually a best case scenario as we did not consider
+k-associativity in our back-of-the-envelope calculation.
+
+
+```c++
+void mmult_naive(
+  double * A,
+  double * B,
+  double * C)
+{
+  int    i, j, k;
+  double sum;
+  for (i = 0; i < SIZE; i++) {
+    for (j = 0; j < SIZE; j++) {
+      sum = 0;
+      for (k = 0; k < SIZE; k++) {
+        sum += A[i * SIZE + k] * B[k * SIZE + j];
+      }
+      C[i * SIZE + j] = sum;
+    }
+  }
+}
+```
+
+
+With loop tiling, we still iterate over multiple rows for every cell.
+The tile size parameter is tuned to ensure that the data required to
+calculate a partial result (from a submatrix multiplication of `A` and `B`)
+will fit into L2 cache without cache line evictions.
+As we again neglected k-associativity of real-world hardware, we still get
+0.04 billion (40 mio.) cache misses according to PAPI.
+
+**Be aware** however that hardware counters accessed by PAPI do not
+guarantee accurate measurements, especially FLOP counters are notoriously
+unrealiable.
+
+
+```c++
+void mmult_opt(
+  double * A,
+  double * B,
+  double * C)
+{
+  int    i,  j,  k,
+         i0, j0, k0,
+         TS;
+  double sum;
+
+  /*
+   * For 4096 cache lines:
+   * TS:         sqrt(4096) / sizeof(double) = 64 / 8 = 8
+   * block size: TS x TS = 64 doubles = 256 bytes
+   */
+  TS = (int)(sqrt(NUM_CACHE_LINES)) / sizeof(double);
+
+  for (i0 = 0; i0 < SIZE; i0 += TS) {
+    for (j0 = 0; j0 < SIZE; j0 += TS) {
+      for (k0 = 0; k0 < SIZE; k0 += TS) {
+        /* Multiply block: */
+        for (i = i0; i < _min_(i0 + TS, SIZE); i++) {
+          for (j = j0; j < _min_(j0 + TS, SIZE); j++) {
+            sum = 0;
+            for (k = k0; k < _min_(k0 + TS, SIZE); k++) {
+              /* sum += A[i][k] + B[k][j] */
+              sum += A[i * SIZE + k] * B[k * SIZE + j];
+            }
+            /* C[i][j] = sum */
+            C[i * SIZE + j] = sum;
+          }
+        }
+      }
+    }
+  }
+}
+
+```
+
