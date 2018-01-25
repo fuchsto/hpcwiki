@@ -11,7 +11,7 @@ title: Parallel and High Performance Computing Course Material
 - [Session 03 (11-16): Matrix storage, cache effects](/lab/session-03)
 - [Session 04 (11-23): Matrix multiplication, Tiling technique](/lab/session-04)
 - [Session 05 (11-30): MPI basics, Domain decomposition](/lab/session-05)
-- [Session 06 (12-07): MPI continued, PGAS, Topologies, Stencil basics](/lab/session-06)
+- [Session 06 (12-07): MPI continued, Topologies, Stencil basics](/lab/session-06)
 - [Session 07 (12-14): Topology measures, Partitioned stencils](/lab/session-07)
 - [Session 08 (12-21): OpenMP: Basics, OpenMP image processing example](/lab/session-08)
 - [Session 09 (01-11): OpenMP: Non-trivial reductions](/lab/session-09)
