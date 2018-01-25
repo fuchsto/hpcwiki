@@ -17,7 +17,7 @@ title: Parallel and High Performance Computing Course Material
 - [Session 09 (01-11): OpenMP: Non-trivial reductions](/lab/session-09)
 - [Session 10 (01-18): OpenMP: Tasking, Performance evaluation](/lab/session-10)
 - [Session 11 (01-25): OpenMP: Tasking, Scalability laws](/lab/session-11)
-- [Session 12 (02-01): Accelerators](/lab/session-12)
+- [Session 12 (02-01): PGAS, Accelerators](/lab/session-12)
 - [Session 13 (02-08): Wrap-up](/lab/session-13)
 
 # Lecture Slides
