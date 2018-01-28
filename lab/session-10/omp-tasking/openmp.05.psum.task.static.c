@@ -42,6 +42,45 @@ static inline long long timestamp()
   return timestamp;
 }
 
+
+
+
+static inline void partial_sum__task_parallel(
+    const input_t * const A,
+    value_t       * const B,
+    long long             offset,
+    long long             size)
+{
+#pragma omp parallel
+  {
+#pragma omp single
+    {
+#pragma omp task depend(out : B[size-1])
+      {
+        B[size-1] = A[size-1];
+      }
+
+      for (int i = 0; i < size; i++) {
+        int half = i / 2;
+#pragma omp task depend(in  : B[half], \
+                 depend(out : B[i])
+        {
+        }
+      }
+    }
+  }
+}
+
+static inline void partial_sum(
+    const input_t * const A,
+    value_t       * const B,
+    long long             size)
+{
+  partial_sum__task_parallel(A, B, 0, size);
+}
+
+
+
 int main()  
 {
   value_t t_id;
@@ -91,49 +130,9 @@ int main()
 
   printf(" == parallel run ...\n");
   ts_start = timestamp();
-  #pragma omp parallel shared(A, B, block_psum) \
-                       num_threads(NTHREADS)
-  {
-    value_t j;
-    value_t sum = 0;
-    /* The chunk size does not have to be specified for blocked
-     * tiling, at least according to OpenMP spec:
-     *
-     *   "Loop iterations are divided into pieces of size chunk
-     *    and then statically assigned to threads. If chunk is not
-     *    specified, the iterations are evenly (if possible)
-     *    divided contiguously among the threads."
-     *
-     * What would happen if we used scheduled(dynamic)? 
-     */
-    #pragma omp for schedule(static, BLOCK_SIZE)
-    for(i = 0; i < SIZE; i++) {
-      sum  += A[i];
-      B[i]  = sum;
-#ifdef LOG_DEBUG // {{{
-      printf("t:%d block[%i]\n", omp_get_thread_num(), i);
-#endif // }}}
-    }
-    block_psum[omp_get_thread_num()] = sum;
-    /* wait for all threads to calculate their partial
-     * solution:
-     */
-    #pragma omp barrier 
-    /* add last partial sums from previous blocks to
-     * initial sum of private block:
-     */
-    sum = 0;
-    for(j = 0; j < omp_get_thread_num(); j++) {
-      sum += block_psum[j];
-    }
-    /* add initial sum of private block to partial sums
-     * in private block:
-     */
-    #pragma omp for schedule(static, BLOCK_SIZE)
-    for(i = 0; i < SIZE; i++) {
-      B[i] += sum; 
-    }
-  }
+
+  partial_sum(A, B, SIZE);
+
   duration_p = timestamp() - ts_start;
 #ifdef LOG_DEBUG // {{{
     for (i = 0; i < NTHREADS; i++) {
