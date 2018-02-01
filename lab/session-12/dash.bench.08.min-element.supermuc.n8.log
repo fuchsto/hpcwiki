@@ -1,0 +1,358 @@
+----------------------------------------------------------------------------------
+-- Benchmark
+--   identifier                                               bench.08.min-element
+--   date                                                 Thu Feb  1 13:57:28 2018
+----------------------------------------------------------------------------------
+-- MPI Environment Flags
+--   I_MPI_HYDRA_BRANCH_COUNT                                                    4
+--   MP_PE_AFFINITY                                                            yes
+--   I_MPI_FABRICS                                                        shm:dapl
+--   I_MPI_EXTRA_FILESYSTEM                                                    off
+--   MP_EUIDEVELOP                                                             min
+--   MP_SHARED_MEMORY                                                          yes
+--   MP_WAIT_MODE                                                             poll
+--   I_MPI_PLATFORM                                                        uniform
+--   MIC_LD_LIBRARY_PATH /lrz/sys/intel/studio2017_u4/compilers_and_libraries_2017.4.196/linux/compiler/lib/mic:/lrz/sys/intel/compiler/composer_xe_2015.5.223/mkl/lib/mic
+--   I_MPI_JOB_FAST_STARTUP                                                      0
+--   MIC_LD_LIBRARY_PATH_modshare /lrz/sys/intel/studio2017_u4/compilers_and_libraries_2017.4.196/linux/compiler/lib/mic:1:/lrz/sys/intel/compiler/composer_xe_2015.5.223/mkl/lib/mic:1
+--   MP_RFIFO_SIZE                                                        16777216
+--   I_MPI_MPIRUN                                                           mpirun
+--   MIC_LIBRARY_PATH /lrz/sys/intel/studio2017_u4/compilers_and_libraries_2017.4.196/linux/compiler/lib/mic:/lrz/sys/intel/compiler/composer_xe_2015.5.223/mkl/lib/mic
+--   MP_EUIDEVICE                                                        sn_single
+--   MP_FIFO_MTU                                                              4096
+--   MP_RDMA_MTU                                                                4K
+--   MP_BULK_MIN_MSG_SIZE                                                    65536
+--   MP_COREDIR                                                               none
+--   MP_SINGLE_THREAD                                                           no
+--   MP_STDOUTMODE                                                       unordered
+--   MP_EUILIB                                                                  us
+--   MP_EAGER_LIMIT                                                          65536
+--   MP_RMPOOL                                                                  20
+--   MP_CSS_INTERRUPT                                                           no
+--   MP_RC_MAX_QP                                                             8192
+--   I_MPI_ADJUST_GATHER                                                         2
+--   MP_TASK_AFFINITY                                                         CORE
+--   MP_NODES                                                                    1
+--   I_MPI_HYDRA_IFACE                                                         ib0
+--   I_MPI_HYDRA_PMI_CONNECT                                              alltoall
+--   I_MPI_DAPL_UD_PROVIDER                                       ofa-v2-mlx5_0-1u
+--   KMP_AFFINITY                                   granularity=thread,compact,1,0
+--   MP_CLOCK_SOURCE                                                            OS
+--   MP_RESD                                                                   yes
+--   MIC_LIBRARY_PATH_modshare /lrz/sys/intel/studio2017_u4/compilers_and_libraries_2017.4.196/linux/compiler/lib/mic:1:/lrz/sys/intel/compiler/composer_xe_2015.5.223/mkl/lib/mic:1
+--   MP_SYNC_QP                                                                YES
+--   I_MPI_CHECK_DAPL_PROVIDER_COMPATIBILITY                                     0
+--   I_MPI_HYDRA_BOOTSTRAP                                                      ll
+--   OMP_NUM_THREADS                                                             1
+--   MP_S_SKIP_PMDEXIT_SLEEP                                                   yes
+--   MP_LABELIO                                                                 no
+--   MP_COREFILE_FORMAT                                                     STDERR
+--   MP_USE_BULK_XFER                                                          yes
+--   I_MPI_PLATFORM_CHECK                                                        0
+--   I_MPI_ROOT                                      /lrz/sys/intel/impi/5.1.3.181
+--   I_MPI_INFO_NUMA_NODE_NUM                                                    4
+--   I_MPI_INFO_NUMA_NODE_DIST     10,11,21,21,11,10,21,21,21,21,10,11,21,21,11,10
+--   I_MPI_INFO_NUMA_NODE_MAP                                             mlx4_0:0
+--   I_MPI_PERHOST                                                        allcores
+--   I_MPI_HYDRA_UUID                         40780000-3649-5323-2664-050002400a04
+--   I_MPI_PM                                                                hydra
+--   I_MPI_RANK_CMD                                ./bin/bench.08.min-element.mpi 
+--   I_MPI_CMD                         mpirun -n 8 ./bin/bench.08.min-element.mpi 
+--   I_MPI_INFO_STATE                                                            0
+--   I_MPI_INFO_MODE                                                           775
+--   I_MPI_INFO_VEND                                                             1
+--   I_MPI_INFO_FLGB                                                         14251
+--   I_MPI_INFO_FLGC                                                    2147417087
+--   I_MPI_INFO_FLGD                                                   -1075053569
+--   I_MPI_INFO_FLGCEXT                                                          0
+--   I_MPI_INFO_FLGDEXT                                                          0
+--   I_MPI_INFO_DESC                                                    1342177285
+--   I_MPI_INFO_BRAND                                            Intel(R) Xeon(R) 
+--   I_MPI_INFO_SERIAL                                                 E5-2697 v3 
+--   I_MPI_INFO_C_NAME                                                     Unknown
+--   I_MPI_INFO_SIGN                                                        198386
+--   I_MPI_INFO_LCPU                                                            56
+--   I_MPI_INFO_PACK 0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+--   I_MPI_INFO_CORE 0,1,2,3,4,5,6,8,9,10,11,12,13,14,0,1,2,3,4,5,6,8,9,10,11,12,13,14,0,1,2,3,4,5,6,8,9,10,11,12,13,14,0,1,2,3,4,5,6,8,9,10,11,12,13,14
+--   I_MPI_INFO_THREAD 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+--   I_MPI_INFO_CACHE1 0,1,2,3,4,5,6,8,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,0,1,2,3,4,5,6,8,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30
+--   I_MPI_INFO_CACHE2 0,1,2,3,4,5,6,8,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,0,1,2,3,4,5,6,8,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30
+--   I_MPI_INFO_CACHE3 0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,3,3,3,3,3,3,3,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,3,3,3,3,3,3,3
+--   I_MPI_INFO_CACHES                                                           3
+--   I_MPI_INFO_CACHE_SHARE                                                 2,2,16
+--   I_MPI_INFO_CACHE_SIZE                                   32768,262144,18350080
+--   I_MPI_INFO_NC                                                              28
+--   I_MPI_INFO_NP                                                               2
+--   I_MPI_PIN_MAPPING                      8:0 0,1 4,2 7,3 11,4 14,5 18,6 21,7 25
+--   I_MPI_PIN_INFO                                              x0,1,2,3,28,29,30
+--   I_MPI_EXT_MPI_CALLS_30789                                      0x7fcc3ba134a0
+--   I_MPI_THREAD_LEVEL                                                          1
+--   I_MPI_NUMBER_OF_MPI_PROCESSES_PER_NODE                                      8
+----------------------------------------------------------------------------------
+-- DASH Environment Flags
+--   DART_MPI_IMPL                                                        intelmpi
+--   DASH_ENABLE_MKL                                                             1
+--   DASH_ENABLE_NUMA                                                            1
+--   DASH_ENABLE_SCALAPACK                                                       1
+--   DASH_FIFO_MTU_SIZE                                                       4096
+--   DASH_RDMA_MTU_SIZE                                                         4K
+--   DASH_ENABLE_OPENMP                                                          1
+--   DASH_FIFO_MTU_SIZE_BYTES                                                 4096
+--   DASH_BULK_MIN_MSG_SIZE                                                  65536
+--   DASH_BULK_MIN_MSG_SIZE_BYTES                                            65536
+--   DASH_ENABLE_MPI_SHWIN                                                       1
+--   DASH_ENABLE_PAPI                                                            1
+--   DASH_RDMA_MTU_SIZE_BYTES                                                 4096
+--   DASH_ENABLE_HWLOC                                                           1
+----------------------------------------------------------------------------------
+-- DASH Configuration
+--   MPI implementation                                                   intelmpi
+--   Host system identifier                                               supermuc
+--   PAPI                                                                  enabled
+--   hwloc                                                                 enabled
+--   libnuma                                                               enabled
+--   MPI shared windows                                                    enabled
+--   BLAS                                                                 disabled
+--   LAPACK                                                               disabled
+--   Intel MKL                                                             enabled
+--   ScaLAPACK                                                             enabled
+----------------------------------------------------------------------------------
+-- Process Pinning
+--   unit host                                 domain               NUMA core  CPU
+--   0    login21                              .0.0.0.0.0.0.0.0        0    0    0
+--   1    login21                              .0.0.0.0.0.1.0.0        0    4    8
+--   2    login21                              .0.0.0.1.0.0.0.0        1    7   14
+--   3    login21                              .0.0.0.1.0.1.0.0        1   11   22
+--   4    login21                              .0.0.1.0.0.0.0.0        2   14   28
+--   5    login21                              .0.0.1.0.0.1.0.0        2   18   36
+--   6    login21                              .0.0.1.1.0.0.0.0        3   21   42
+--   7    login21                              .0.0.1.1.0.1.0.0        3   25   50
+----------------------------------------------------------------------------------
+-- Runtime arguments
+--   -smin      8000000                                               initial size
+--   -sb              2                                                  size base
+--   -rmax         2560                                            initial repeats
+--   -rmin           10                                               min. repeats
+--   -rb              2                                                  rep. base
+--   -i               8                                                 iterations
+--   -v               0                                                     verify
+----------------------------------------------------------------------------------
+-- Data Partitioning
+--   global     8000000                                              cpu  mbw  ldw
+--   u:   0     1000000                                             1.00 1.00 1.00
+--   u:   1     1000000                                             1.00 1.00 1.00
+--   u:   2     1000000                                             1.00 1.00 1.00
+--   u:   3     1000000                                             1.00 1.00 1.00
+--   u:   4     1000000                                             1.00 1.00 1.00
+--   u:   5     1000000                                             1.00 1.00 1.00
+--   u:   6     1000000                                             1.00 1.00 1.00
+--   u:   7     1000000                                             1.00 1.00 1.00
+----------------------------------------------------------------------------------
+-- Team Locality Domains
+--  # (.) @ 0x7a90e0
+--  # scope:   GLOBAL (level 0, rel.idx 0)
+--  # nodes:   1
+--  # units:   { 0, 1, 2, 3, 4, 5, 6, 7 }
+--  # domains: 1
+--  # [0] (.0) @ 0x8ad5e0
+--  #     scope:   NODE (level 1, rel.idx 0)
+--  #     units:   { 0, 1, 2, 3, 4, 5, 6, 7 }
+--  #     domains: 1
+--  #     [0] (.0.0) @ 0x83ffa0
+--  #         scope:   MODULE (level 2, rel.idx 0)
+--  #         units:   { 0, 1, 2, 3, 4, 5, 6, 7 }
+--  #         domains: 2
+--  #         [0] (.0.0.0) @ 0x840620
+--  #         |   scope:   PACKAGE (level 3, rel.idx 0)
+--  #         |   units:   { 0, 1, 2, 3 }
+--  #         |   domains: 2
+--  #         |   [0] (.0.0.0.0) @ 0x8c2480
+--  #         |   |   scope:   NUMA (level 4, rel.idx 0)
+--  #         |   |   units:   { 0, 1 }
+--  #         |   |   domains: 1
+--  #         |   |   [0] (.0.0.0.0.0) @ 0x8c2750
+--  #         |   |       scope:   CACHE (level 5, rel.idx 0)
+--  #         |   |       units:   { 0, 1 }
+--  #         |   |       domains: 2
+--  #         |   |       [0] (.0.0.0.0.0.0) @ 0x8c2a20
+--  #         |   |       |   scope:   CACHE (level 6, rel.idx 0)
+--  #         |   |       |   units:   { 0 }
+--  #         |   |       |   domains: 1
+--  #         |   |       |   [0] (.0.0.0.0.0.0.0) @ 0x8c2cd0
+--  #         |   |       |       scope:   CACHE (level 7, rel.idx 0)
+--  #         |   |       |       units:   { 0 }
+--  #         |   |       |       domains: 1
+--  #         |   |       |       [0] (.0.0.0.0.0.0.0.0) @ 0x8c2f80
+--  #         |   |       |           scope:   CORE (level 8, rel.idx 0)
+--  #         |   |       |           units:   { 0 }
+--  #         |   |       |               unit id: 0  (in team 0, global: 0)
+--  #         |   |       |               domain:  .0.0.0.0.0.0.0.0
+--  #         |   |       |               host:    login21
+--  #         |   |       |               hwinfo:  numa:  0 #numa: 4
+--  #         |   |       |                        core:  0 #cores: 3
+--  #         |   |       |                        x #smt 1...2
+--  #         |   |       |                        @freq: 1200...2601
+--  #         |   |       [1] (.0.0.0.0.0.1) @ 0x8c3230
+--  #         |   |           scope:   CACHE (level 6, rel.idx 1)
+--  #         |   |           units:   { 1 }
+--  #         |   |           domains: 1
+--  #         |   |           [0] (.0.0.0.0.0.1.0) @ 0x8c34e0
+--  #         |   |               scope:   CACHE (level 7, rel.idx 0)
+--  #         |   |               units:   { 1 }
+--  #         |   |               domains: 1
+--  #         |   |               [0] (.0.0.0.0.0.1.0.0) @ 0x8c3790
+--  #         |   |                   scope:   CORE (level 8, rel.idx 0)
+--  #         |   |                   units:   { 1 }
+--  #         |   |                       unit id: 1  (in team 0, global: 1)
+--  #         |   |                       domain:  .0.0.0.0.0.1.0.0
+--  #         |   |                       host:    login21
+--  #         |   |                       hwinfo:  numa:  0 #numa: 4
+--  #         |   |                                core:  4 #cores: 3
+--  #         |   |                                x #smt 1...2
+--  #         |   |                                @freq: 1200...2601
+--  #         |   [1] (.0.0.0.1) @ 0x8c3a40
+--  #         |       scope:   NUMA (level 4, rel.idx 1)
+--  #         |       units:   { 2, 3 }
+--  #         |       domains: 1
+--  #         |       [0] (.0.0.0.1.0) @ 0x8c3d50
+--  #         |           scope:   CACHE (level 5, rel.idx 0)
+--  #         |           units:   { 2, 3 }
+--  #         |           domains: 2
+--  #         |           [0] (.0.0.0.1.0.0) @ 0x8c4060
+--  #         |           |   scope:   CACHE (level 6, rel.idx 0)
+--  #         |           |   units:   { 2 }
+--  #         |           |   domains: 1
+--  #         |           |   [0] (.0.0.0.1.0.0.0) @ 0x8c4370
+--  #         |           |       scope:   CACHE (level 7, rel.idx 0)
+--  #         |           |       units:   { 2 }
+--  #         |           |       domains: 1
+--  #         |           |       [0] (.0.0.0.1.0.0.0.0) @ 0x8c4680
+--  #         |           |           scope:   CORE (level 8, rel.idx 0)
+--  #         |           |           units:   { 2 }
+--  #         |           |               unit id: 2  (in team 0, global: 2)
+--  #         |           |               domain:  .0.0.0.1.0.0.0.0
+--  #         |           |               host:    login21
+--  #         |           |               hwinfo:  numa:  1 #numa: 4
+--  #         |           |                        core:  7 #cores: 3
+--  #         |           |                        x #smt 1...2
+--  #         |           |                        @freq: 1200...2601
+--  #         |           [1] (.0.0.0.1.0.1) @ 0x8c4950
+--  #         |               scope:   CACHE (level 6, rel.idx 1)
+--  #         |               units:   { 3 }
+--  #         |               domains: 1
+--  #         |               [0] (.0.0.0.1.0.1.0) @ 0x8c4c00
+--  #         |                   scope:   CACHE (level 7, rel.idx 0)
+--  #         |                   units:   { 3 }
+--  #         |                   domains: 1
+--  #         |                   [0] (.0.0.0.1.0.1.0.0) @ 0x8c4f00
+--  #         |                       scope:   CORE (level 8, rel.idx 0)
+--  #         |                       units:   { 3 }
+--  #         |                           unit id: 3  (in team 0, global: 3)
+--  #         |                           domain:  .0.0.0.1.0.1.0.0
+--  #         |                           host:    login21
+--  #         |                           hwinfo:  numa:  1 #numa: 4
+--  #         |                                    core:  11 #cores: 3
+--  #         |                                    x #smt 1...2
+--  #         |                                    @freq: 1200...2601
+--  #         [1] (.0.0.1) @ 0x8c5200
+--  #             scope:   PACKAGE (level 3, rel.idx 1)
+--  #             units:   { 4, 5, 6, 7 }
+--  #             domains: 2
+--  #             [0] (.0.0.1.0) @ 0x8c5500
+--  #             |   scope:   NUMA (level 4, rel.idx 0)
+--  #             |   units:   { 4, 5 }
+--  #             |   domains: 1
+--  #             |   [0] (.0.0.1.0.0) @ 0x8c5800
+--  #             |       scope:   CACHE (level 5, rel.idx 0)
+--  #             |       units:   { 4, 5 }
+--  #             |       domains: 2
+--  #             |       [0] (.0.0.1.0.0.0) @ 0x8c5ab0
+--  #             |       |   scope:   CACHE (level 6, rel.idx 0)
+--  #             |       |   units:   { 4 }
+--  #             |       |   domains: 1
+--  #             |       |   [0] (.0.0.1.0.0.0.0) @ 0x8c5d60
+--  #             |       |       scope:   CACHE (level 7, rel.idx 0)
+--  #             |       |       units:   { 4 }
+--  #             |       |       domains: 1
+--  #             |       |       [0] (.0.0.1.0.0.0.0.0) @ 0x8c6010
+--  #             |       |           scope:   CORE (level 8, rel.idx 0)
+--  #             |       |           units:   { 4 }
+--  #             |       |               unit id: 4  (in team 0, global: 4)
+--  #             |       |               domain:  .0.0.1.0.0.0.0.0
+--  #             |       |               host:    login21
+--  #             |       |               hwinfo:  numa:  2 #numa: 4
+--  #             |       |                        core:  14 #cores: 3
+--  #             |       |                        x #smt 1...2
+--  #             |       |                        @freq: 1200...2601
+--  #             |       [1] (.0.0.1.0.0.1) @ 0x8c62c0
+--  #             |           scope:   CACHE (level 6, rel.idx 1)
+--  #             |           units:   { 5 }
+--  #             |           domains: 1
+--  #             |           [0] (.0.0.1.0.0.1.0) @ 0x8c65d0
+--  #             |               scope:   CACHE (level 7, rel.idx 0)
+--  #             |               units:   { 5 }
+--  #             |               domains: 1
+--  #             |               [0] (.0.0.1.0.0.1.0.0) @ 0x8c68e0
+--  #             |                   scope:   CORE (level 8, rel.idx 0)
+--  #             |                   units:   { 5 }
+--  #             |                       unit id: 5  (in team 0, global: 5)
+--  #             |                       domain:  .0.0.1.0.0.1.0.0
+--  #             |                       host:    login21
+--  #             |                       hwinfo:  numa:  2 #numa: 4
+--  #             |                                core:  18 #cores: 3
+--  #             |                                x #smt 1...2
+--  #             |                                @freq: 1200...2601
+--  #             [1] (.0.0.1.1) @ 0x8c6bf0
+--  #                 scope:   NUMA (level 4, rel.idx 1)
+--  #                 units:   { 6, 7 }
+--  #                 domains: 1
+--  #                 [0] (.0.0.1.1.0) @ 0x8c6f00
+--  #                     scope:   CACHE (level 5, rel.idx 0)
+--  #                     units:   { 6, 7 }
+--  #                     domains: 2
+--  #                     [0] (.0.0.1.1.0.0) @ 0x8c71d0
+--  #                     |   scope:   CACHE (level 6, rel.idx 0)
+--  #                     |   units:   { 6 }
+--  #                     |   domains: 1
+--  #                     |   [0] (.0.0.1.1.0.0.0) @ 0x8c7480
+--  #                     |       scope:   CACHE (level 7, rel.idx 0)
+--  #                     |       units:   { 6 }
+--  #                     |       domains: 1
+--  #                     |       [0] (.0.0.1.1.0.0.0.0) @ 0x8c7780
+--  #                     |           scope:   CORE (level 8, rel.idx 0)
+--  #                     |           units:   { 6 }
+--  #                     |               unit id: 6  (in team 0, global: 6)
+--  #                     |               domain:  .0.0.1.1.0.0.0.0
+--  #                     |               host:    login21
+--  #                     |               hwinfo:  numa:  3 #numa: 4
+--  #                     |                        core:  21 #cores: 3
+--  #                     |                        x #smt 1...2
+--  #                     |                        @freq: 1200...2601
+--  #                     [1] (.0.0.1.1.0.1) @ 0x8c7a80
+--  #                         scope:   CACHE (level 6, rel.idx 1)
+--  #                         units:   { 7 }
+--  #                         domains: 1
+--  #                         [0] (.0.0.1.1.0.1.0) @ 0x8c7d80
+--  #                             scope:   CACHE (level 7, rel.idx 0)
+--  #                             units:   { 7 }
+--  #                             domains: 1
+--  #                             [0] (.0.0.1.1.0.1.0.0) @ 0x8c8080
+--  #                                 scope:   CORE (level 8, rel.idx 0)
+--  #                                 units:   { 7 }
+--  #                                     unit id: 7  (in team 0, global: 7)
+--  #                                     domain:  .0.0.1.1.0.1.0.0
+--  #                                     host:    login21
+--  #                                     hwinfo:  numa:  3 #numa: 4
+--  #                                              core:  25 #cores: 3
+--  #                                              x #smt 1...2
+--  #                                              @freq: 1200...2601
+----------------------------------------------------------------------------------
+units, mpi.impl, repeats,       size,  time.s, time.min.us, time.med.us, time.max.us, time.sdv.us, total.s,   mkeys/s
+    8, intelmpi,    2560,    8000000,    0.80,      276.00,      298.00,     9264.00,      180.72,    0.86,  24301.00
+    8, intelmpi,    1280,   16000000,    1.29,      951.00,     1010.00,     1560.00,       48.06,    1.36,  15082.16
+    8, intelmpi,     640,   32000000,    1.39,     2056.00,     2155.00,     4352.00,      131.52,    1.52,  14024.19
+    8, intelmpi,     320,   64000000,    1.52,     4624.00,     4703.00,     7124.00,      154.31,    1.77,  12887.75
+    8, intelmpi,     160,  128000000,    2.28,    13893.00,    14152.00,    20146.00,      515.15,    2.76,   8564.02
+    8, intelmpi,      80,  256000000,    2.71,    33359.00,    33692.00,    45470.00,     1347.93,    3.77,   7206.29
+    8, intelmpi,      40,  512000000,    3.02,    72571.00,    73657.00,    97671.00,     4725.62,    5.03,   6472.62
+    8, intelmpi,      20, 1024000000,    3.11,   151871.00,   152905.00,   199471.00,    10157.40,    6.95,   6279.39
