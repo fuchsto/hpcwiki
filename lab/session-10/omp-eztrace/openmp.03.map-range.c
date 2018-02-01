@@ -23,7 +23,7 @@
 #  define MAX_THREADS  4
 #endif
 #ifndef MAX_THREADS
-#  define BLOCK_SIZE   60000000
+#  define BLOCK_SIZE   600000
 #endif
 
 static inline void wait_for_confirm() {
